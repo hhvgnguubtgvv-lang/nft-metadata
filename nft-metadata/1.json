@@ -1,6 +1,11 @@
 {
   "name": "My NFT #1",
   "description": "First NFT on Polygon",
-  "image": "https://raw.githubusercontent.com/hhvgnguubtgvv-lang/nft-metadata/main/1.png",
-  "attributes": []
+  "image": "https://raw.githubusercontent.com/hhvgnguubtgvv-lang/nft-metadata/main/images/1.png",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    }
+  ]
 }
