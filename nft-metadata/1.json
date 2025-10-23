@@ -1,11 +1,6 @@
 {
-  "name": "My First NFT #1",
-  "description": "This is my first NFT created on Polygon", 
-  "image": "ВАША_ССЫЛКА_ИЗ_IMGBB",
-  "attributes": [
-    {
-      "trait_type": "Created",
-      "value": "Via Remix"
-    }
-  ]
+  "name": "My NFT #1",
+  "description": "First NFT on Polygon",
+  "image": "https://raw.githubusercontent.com/hhvgnguubtgvv-lang/nft-metadata/main/1.png",
+  "attributes": []
 }
